@@ -1,16 +1,17 @@
 # Final Project for CS105
 
 #### Data
-We have decided to use ___ data.
+We have decided to use Fall Bottom Trawl Survey data by NOAA Northeast Fisheries Science Center (NEFSC).
 
 #### Task
-Our task is ___.
+Our task is to analyze on the change (from 1963 to 2021) in population of silver hake, butterfish, longfin squid with total numbers, total weight, and size (weight/number) of catch in Fall Bottom Trawl Survey by NOAA.
+
 
 #### Team Members
 - Sangjoon Lee (sj0726)
 - Jinpeng Lyu (AlAuB)
 - Alex Wang (AlxWang9966)
-- Jade Hong
+- Seungyeon Jade Hong (sjhong0117)
 - Congying Pi
 - Jiasheng Qiu
 
